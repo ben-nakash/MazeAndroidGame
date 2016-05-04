@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="level_1">1</integer>
+    <integer name="level_2">2</integer>
+    <integer name="level_3">3</integer>
+    <integer name="mazeLocCorrection">350</integer>
+
+    <integer name="maze1StartPosX">0</integer>
+    <integer name="maze1StartPosY">0</integer>
+    <integer name="maze2StartPosX">0</integer>
+    <integer name="maze2StartPosY">7</integer>
+    <integer name="maze3StartPosX">0</integer>
+    <integer name="maze3StartPosY">0</integer>
+
+    <integer name="maze1EndPosX">7</integer>
+    <integer name="maze1EndPosY">7</integer>
+    <integer name="maze2EndPosX">7</integer>
+    <integer name="maze2EndPosY">0</integer>
+    <integer name="maze3EndPosX">12</integer>
+    <integer name="maze3EndPosY">12</integer>
+
+    <integer name="delta">10</integer>
+    <integer name="deltaDelay">200</integer>
+
+    <integer name="UP">0</integer>
+    <integer name="DOWN">1</integer>
+    <integer name="RIGHT">2</integer>
+    <integer name="LEFT">3</integer>
+</resources>
